@@ -1,0 +1,23 @@
+How to Play the Game
+
+1. The game is a MULTIPLAYER (2 players) game. On opening the game, player 1 has to choose which coin he prefers (w or b).
+By default, it is the player 1's choice. The other coin is allocated to player 2.
+2. A TIMER has been implemented which records the time elapsed for the entire game. 
+3. A quick set of INSTRUCTIONS are present on the screen.
+4. On scoring the chosen coin, 10 points are given and -5 for the wrong one.
+5. As soon as a player finishes his shot, he need to press ENTER for it to be the other player's turn. The turn has been INDICATED at the bottom of the screen.
+6. TWO SCOREBOARDS, one for each player has been implemented. Only after pressing ENTER, will the SCOREBOARD for the other player start reducing by 1 point in each second.
+7. A DOCK/POUCH for the coins scored is present under the player's name in the SCOREBOARD area for each player.
+8. The game is played in continuous turns with each player getting 1 TURN at a time.
+9. The coins chosen by each player are indicated against the player's name in the scoreboard.
+10. Collision has been done with accordance to law of conservation of momentum and 1-D & 2-D collisions.
+Friction has been done keeping a coefficient of static friction of 0.2.
+
+Controls:
+
+Space: For shooting
+ENTER: Finish your turn & pass it to the Next Player
+Left & Right Arrows : For placing the striker
+Up & Down Arrows: To determine the power of the Hit
+A & C: To move it at a particular angle
+Esc:To Exit the Game

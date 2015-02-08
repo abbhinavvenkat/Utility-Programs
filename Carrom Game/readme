@@ -1,0 +1,20 @@
+There is a 'Makefile'.
+On writing the command 'make' in the terminal it creates an executable of the name 'carrom'
+The source code's name is '201302063_carrom.cpp'
+
+glut.h and gl.h need to be installed before running this program.
+
+The Header Files used are:
+#include <iostream>
+#include <stdio.h>
+#include <sys/time.h>
+#include <stdlib.h>
+#include <cmath>
+#include <sstream>  //include this to use string streams
+#include <string> 
+#ifdef __APPLE__
+#include <OpenGL/OpenGL.h>
+#include <GLUT/glut.h>
+#else
+#include <GL/glut.h>
+#endif
