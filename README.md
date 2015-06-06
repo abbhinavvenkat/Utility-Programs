@@ -8,5 +8,5 @@ The repo has utility programs.
     b) wget https://raw.githubusercontent.com/np1/pafy/master/pafy/pafy.py
     For pafy documentation, visit: https://pypi.python.org/pypi/Pafy. 
 
-2. Carrom Game Written in C++ using OpenGL 2
+2. Carrom Game Written in C++ using OpenGL 2.
     Instructions on How to Compile & Play are given in the respective folders.
